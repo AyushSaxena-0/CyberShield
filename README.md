@@ -6,6 +6,11 @@ CyberShield is an AI-driven cybersecurity solution designed to identify maliciou
 
 The platform helps users verify website safety before visiting them, reducing exposure to phishing attacks, fraudulent websites, and other cyber threats.
 
+<img width="1918" height="1078" alt="Screenshot 2026-06-12 174912" src="https://github.com/user-attachments/assets/e36713af-ea41-44f1-9c56-9dfff160668e" />
+<img width="1918" height="1066" alt="Screenshot 2026-06-12 181748" src="https://github.com/user-attachments/assets/5bb38a5a-de8f-4b01-a6e7-df997411c693" />
+
+
+
 ---
 
 ## 🚀 Features
