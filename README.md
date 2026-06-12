@@ -6,8 +6,13 @@ CyberShield is an AI-driven cybersecurity solution designed to identify maliciou
 
 The platform helps users verify website safety before visiting them, reducing exposure to phishing attacks, fraudulent websites, and other cyber threats.
 
-<img width="1918" height="1078" alt="Screenshot 2026-06-12 174912" src="https://github.com/user-attachments/assets/e36713af-ea41-44f1-9c56-9dfff160668e" />
-<img width="1918" height="1066" alt="Screenshot 2026-06-12 181748" src="https://github.com/user-attachments/assets/5bb38a5a-de8f-4b01-a6e7-df997411c693" />
+Trusted Link
+<img width="1918" height="863" alt="image" src="https://github.com/user-attachments/assets/1b23dfb1-e1be-4ce1-84aa-50012fe4b5a5" />
+
+Fake Link
+<img width="1896" height="863" alt="image" src="https://github.com/user-attachments/assets/ef42e50c-0391-4ba6-98c0-8441347ccc28" />
+
+
 
 
 
@@ -176,12 +181,36 @@ threat_model.pkl
 AI Engineer | Machine Learning Enthusiast | Cybersecurity Innovator
 
 Focused on building intelligent systems that combine Artificial Intelligence with real-world cybersecurity solutions.
+Linked In www.linkedin.com/in/ayush-saxena-b29912241
 
 ---
 
 ## 📜 License
 
 This project is intended for educational and research purposes.
+## ⚠️ Disclaimer & Model Accuracy
+
+CyberShield is an AI-assisted cybersecurity tool designed to help identify potentially malicious URLs. While the system has been trained on large phishing datasets and achieves approximately **90% accuracy** on the evaluation dataset, it is not perfect and should not be considered a substitute for professional cybersecurity solutions.
+
+### 📊 Model Performance
+
+| Metric   | Score                |
+| -------- | -------------------- |
+| Accuracy | **90.0%**            |
+| Status   | Production Prototype |
+
+### Important Limitations
+
+* False positives may occur, causing legitimate websites to be flagged as suspicious.
+* False negatives may occur, allowing some malicious URLs to be classified as safe.
+* New phishing techniques and zero-day threats may not always be detected.
+* Predictions should be used as guidance and not as the sole basis for security decisions.
+
+### Security Notice
+
+CyberShield should be used alongside antivirus software, browser security protections, threat intelligence services, and manual verification practices.
+
+**The developer does not guarantee 100% threat detection accuracy and assumes no liability for damages resulting from the use of this software.**
 
 Use responsibly and ethically.
 
