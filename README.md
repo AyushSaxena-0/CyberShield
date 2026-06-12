@@ -213,6 +213,3 @@ CyberShield should be used alongside antivirus software, browser security protec
 **The developer does not guarantee 100% threat detection accuracy and assumes no liability for damages resulting from the use of this software.**
 
 Use responsibly and ethically.
-
-```
-```
